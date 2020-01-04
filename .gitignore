@@ -1,0 +1,8 @@
+# Next build folder
+.next
+
+# Visual studio code folder
+.vscode
+
+# Node JS folder
+node_modules
