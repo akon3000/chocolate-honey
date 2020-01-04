@@ -6,3 +6,6 @@
 
 # Node JS folder
 node_modules
+
+# lock file
+yarn.lock
